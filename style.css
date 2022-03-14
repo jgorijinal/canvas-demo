@@ -1,0 +1,17 @@
+* {
+  padding:0;
+  margin:0;
+  box-sizing: border-box;
+}
+#canvas {
+  display:block;
+}
+
+.wrapper {
+  position:relative
+}
+h1 {
+  position: absolute;
+  left: 0;
+  top: 12px;
+}

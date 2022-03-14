@@ -1,0 +1,7 @@
+6
+39C:\Users\86188\Desktop\canvas-demo\dist132917067880428857 1
+58C:\Users\86188\Desktop\canvas-demo\dist\index.3a01df49.css132917067880268120 0
+45C:\Users\86188\Desktop\canvas-demo\index.html132917067634091591 0
+44C:\Users\86188\Desktop\canvas-demo\style.css132917067748289069 0
+62C:\Users\86188\Desktop\canvas-demo\dist\index.3a01df49.css.map132917067880306313 0
+50C:\Users\86188\Desktop\canvas-demo\dist\index.html132917067880416088 0
